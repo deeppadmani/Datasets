@@ -900,11 +900,6 @@ tweet_id|data_time|tweet
 526983684339937280|Tue Oct 28 06:27:55 +0000 2014|Sister Theresa Stickley awake during her livestreamed heart surgery http://www.cbc.ca/news/canada/british-columbia/sister-theresa-stickley-awake-during-her-livestreamed-heart-surgery-1.2815004?cmp=rss
 526830333011185664|Mon Oct 27 20:18:34 +0000 2014|RT @CBCAlerts: US Centers for Disease Control: High-risk people, including those exposed to #Ebola without protection, face ban from flight…
 526823550531801088|Mon Oct 27 19:51:37 +0000 2014|U.S. mandatory Ebola quarantines not ‘good science,’ Ontario health minister says http://www.cbc.ca/news/health/ebola-quarantine-of-health-workers-without-symptoms-a-disincentive-eric-hoskins-says-1.2814629?cmp=rss
-526748897369022464|Mon Oct 27 14:54:58 +0000 2014|Enterovirus D68 confirmed in Fredericton child http://www.cbc.ca/news/canada/new-brunswick/enterovirus-d68-confirmed-in-fredericton-child-1.2814092?cmp=rss
-526731211125698561|Mon Oct 27 13:44:41 +0000 2014|Sask. artist not letting autism hold her back http://www.cbc.ca/news/canada/saskatchewan/sask-artist-not-letting-autism-hold-her-back-1.2813095?cmp=rss
-526721229336506368|Mon Oct 27 13:05:01 +0000 2014|U.S. Ebola quarantines sign of growing rift between politicians, health workers http://www.cbc.ca/news/world/ebola-outbreak-u-s-travel-quarantines-could-deter-health-workers-1.2813455?cmp=rss
-526348044741394432|Sun Oct 26 12:22:07 +0000 2014|Analysis: Ebola quarantines in U.S.: are they warranted? http://ift.tt/1wwipmB
-526161747347255297|Sun Oct 26 00:01:50 +0000 2014|RT @kimbrunhuber: Many fear the mandatory Ebola quarantine in 3 states will have a devastating impact on the effort to fight the virus, on …
 526123565838782465|Sat Oct 25 21:30:07 +0000 2014|Ebola quarantines in U.S.: are they warranted? http://ift.tt/1wwipmB
 526043236763058176|Sat Oct 25 16:10:55 +0000 2014|'No shortage of volunteers' for clinical trial of Canadian-made Ebola vaccine http://www.cbc.ca/news/health/ebola-vaccine-clinical-trials-in-u-s-full-of-volunteers-1.2813051?cmp=rss
 526030674348998656|Sat Oct 25 15:21:00 +0000 2014|Analysis | Ebola quarantines in U.S.: are they warranted? http://ift.tt/1wwipmB NY, NJ order 21-day mandatory quarantines
